@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hey, nice to meet you and this is crazy
-But here's my account, so follow me, maybe?
+but here's my account, so follow me, maybe?
 
 - 🔭 I’m currently a third year undergraduate student in Computer Science (Artificial Intelligence) course. 
 - 🌱 Interested in Fuzzy Logic, Evolutionary computing, NLP and graphic designing.
